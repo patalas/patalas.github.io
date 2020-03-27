@@ -1,14 +1,15 @@
-## Welcome to GitHub Pages
+## Freelancer Frontend Development (Angular 9, React Native, Java) 
 
-You can use the [editor on GitHub](https://github.com/patalas/patalas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- Over 7 years of experience in Software Development
+- Worked for companies in AT, DE and PL
+- Speaking English, German and Polish
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Your Angular Expert?
 
-### Markdown
+To build an easy-to-use and intuitive user interface you need an frontend developer with experience and a deep unterstanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valueable help for your proejct. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### CV
 
-```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -21,10 +22,10 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Social Media** 
 
-[Link](url) and ![Image](src)
-```
+[Xing](https://www.xing.com/profile/MichaelJohann_Patalas2) and ![Image](src)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
