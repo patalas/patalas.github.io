@@ -1,7 +1,8 @@
 ## Freelancer Frontend Development (Angular 9, React Native, Java) 
 
-- Over 7 years of experience in Software Development
-- Worked for companies in AT, DE and PL
+- Over **7 years** of experience in Software Development
+- Master degree in computer science (M. Sc. Ing.)
+- Worked for companies in **AT, DE and PL**
 - Speaking English, German and Polish
 
 ### Your Angular Expert?
