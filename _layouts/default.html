@@ -10,6 +10,10 @@
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
         
+              </script>
+    {% endif %}
+    <script>
+        
         var TxtRotate = function(el, toRotate, period) {
   this.toRotate = toRotate;
   this.el = el;
@@ -66,9 +70,7 @@ window.onload = function() {
   css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #666 }";
   document.body.appendChild(css);
 };
-        
-      </script>
-    {% endif %}
+</script>
     <meta charset="UTF-8">
 
 {% seo %}
