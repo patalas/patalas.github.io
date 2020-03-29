@@ -17,4 +17,4 @@ To build an easy-to-use and intuitive user interface you need an frontend develo
 
 ### Social Media
 
-[Xing](https://www.xing.com/profile/MichaelJohann_Patalas2) and ![Image](src)
+[Xing profile](https://www.xing.com/profile/MichaelJohann_Patalas2)
