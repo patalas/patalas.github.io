@@ -44,8 +44,7 @@ Ruhr-University Bochum
 
 ### Contact
 <div markdown="1" class="image-row">
-<img align="left" height="50" src="/images/logos/WhatsApp_Logo_1.png" >
-<span style="display: table-cell; height: 50px; vertical-align: middle;">Message me on WhatsApp +43 681 206 492 55 </span>
+<img align="left" height="50" src="/images/logos/WhatsApp_Logo_1.png" style="margin-right: 1rem">
+<span style="display: table-cell; height: 50px; vertical-align: middle;">Message me on WhatsApp +43 68 120 649 255 </span>
 </div>
-
 [Xing profile](https://www.xing.com/profile/MichaelJohann_Patalas2)
