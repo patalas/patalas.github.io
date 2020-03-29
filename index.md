@@ -15,7 +15,9 @@
 
 ## Your Angular Expert
 
-To build an easy-to-use and intuitive user interface you need an frontend developer with experience and a deep unterstanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valueable help for your proejct. 
+To build an easy-to-use and intuitive user interface you need an frontend developer with experience and a deep unterstanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valueable help for your proejct.
+
+Use my knowledge of over 10 years of work as a developer in projects with different companies like RWE AG, Raiffeisen Bankengruppe, Ruhr Institute of Technology, Federal Ministry for Economic Affairs and Energy.
 
 ### CV 
 
