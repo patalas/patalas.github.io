@@ -42,7 +42,8 @@ SOPTIM AG, Essen
 Ruhr-University Bochum
 
 
-### Contact
+### Questions?
+You are looking for a Freelancer? <br/>
 <div markdown="1" class="image-row">
 <img align="left" height="50" src="/images/logos/WhatsApp_Logo_1.png" style="margin-right: 1rem">
 <span style="display: table-cell; height: 50px; vertical-align: middle;">Message me on WhatsApp +43 68 120 649 255 </span>
@@ -51,3 +52,10 @@ Ruhr-University Bochum
 ### Social Media
 
 Xing-Profile (German) : [Link](https://www.xing.com/profile/MichaelJohann_Patalas2)
+
+# Address
+Michał Patalas-Software Development
+ul.Czarna 6/7
+Sosnowiec 41-200
+Poland
+Tax code: PL6443543777
