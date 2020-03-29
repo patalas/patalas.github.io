@@ -5,7 +5,7 @@
 
 - Over **7 years** of experience in Software Development
 - **3 years** experience in Angular
-- Extensive experience in agile software development with Scrum and Kanban
+- Extensive experience in agile software development with Scrum
 - Several years working as Freelancer in **AT, DE and PL**
 - Master degree in Applied Computer Science (M. Sc. Ing.)
 - Speaking English, German and Polish
