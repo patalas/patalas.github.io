@@ -29,7 +29,7 @@ Austrian National Library, Vienna
 [2014 - 2016] : Research Associate <br/>
 The Ruhr Institute for Software Technology, Essen
 
-[2010 - 2014] : Java Software Developer </br>
+[2010 - 2014] : Java Software Developer <br/>
 SOPTIM AG, Essen
 
 
