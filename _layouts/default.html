@@ -10,6 +10,10 @@
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
         
+              </script>
+    {% endif %}
+    <script>
+        
         var TxtRotate = function(el, toRotate, period) {
   this.toRotate = toRotate;
   this.el = el;
@@ -66,9 +70,7 @@ window.onload = function() {
   css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #666 }";
   document.body.appendChild(css);
 };
-        
-      </script>
-    {% endif %}
+</script>
     <meta charset="UTF-8">
 
 {% seo %}
@@ -78,16 +80,14 @@ window.onload = function() {
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
-    <h1>Looking for an 
+     <h1 class="project-name">{{ site.title }}</h1>
+    <h1>Looking for 
   <span
      class="txt-rotate"
-     data-period="2000"
-     data-rotate='[ "Angular Expert?", "Java Pro?", "Teamplayer?"]'></span>
+     data-period="1500"
+     data-rotate='[ "a Frontend Enthusiast?", "an Angular Expert?", "a Java Professional?", "a Teamplayer?"]'></span>
     </h1>
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
