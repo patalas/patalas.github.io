@@ -4,6 +4,7 @@
 <img id="profil" align="left" width="206" height="261" src="/images/me_3.jpg" >
 
 - Over **7 years** of experience in Software Development
+- **3 years** Experience in Angular 6-9
 - Master degree in computer science (M. Sc. Ing.)
 - Worked for companies in **AT, DE and PL**
 - Speaking English, German and Polish
