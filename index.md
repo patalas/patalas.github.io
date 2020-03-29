@@ -45,9 +45,9 @@ Ruhr-University Bochum
 ### Contact me
 
 
-<div markdown="1" class="image-row" style="display: table-cell; height: 50px; vertical-align: middle;">
+<div markdown="1" class="image-row">
 <img align="left" width="50" src="/images/logos/WhatsApp_Logo_1.png" >
-Message me on WhatsApp
+<span style="display: table-cell; height: 50px; vertical-align: middle;">Message me on WhatsApp</span>
 </div>
 
 [Xing profile](https://www.xing.com/profile/MichaelJohann_Patalas2)
