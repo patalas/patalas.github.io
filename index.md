@@ -45,7 +45,7 @@ Ruhr-University Bochum
 ### Contact me
 
 
-<div markdown="1" class="image-row">
+<div markdown="1" class="image-row" style="display: table-cell; height: 50px; vertical-align: middle;">
 <img align="left" width="50" src="/images/logos/WhatsApp_Logo_1.png" >
 Message me on WhatsApp
 </div>
