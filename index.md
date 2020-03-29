@@ -21,7 +21,7 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
 - RWE AG
 - Raiffeisen Bankengruppe
 - Ruhr Institute of Technology
-- Federal Ministry for Economic Affairs and Energy.
+- Federal Ministry for Economic Affairs and Energy (Germany)
 
 ### CV 
 
