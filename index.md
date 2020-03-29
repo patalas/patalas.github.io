@@ -35,6 +35,12 @@ The Ruhr Institute for Software Technology, Essen
 SOPTIM AG, Essen
 
 
-### Social Media
+### Contact me
+
+
+<div markdown="1" class="image-row">
+<img align="left" width="30" src="/images/logos/WhatsApp_Logo_1.png" >
+Message me on WhatsApp
+</div>
 
 [Xing profile](https://www.xing.com/profile/MichaelJohann_Patalas2)
