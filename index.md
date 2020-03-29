@@ -4,10 +4,11 @@
 <img id="profil" align="left" width="206" height="261" src="/images/me_3.jpg" >
 
 - Over **7 years** of experience in Software Development
-- **3 years** experience in Angular 6-9
+- **3 years** experience in Angular
+- Several years working as Freelancer in **AT, DE and PL**
 - Master degree in computer science (M. Sc. Ing.)
-- Worked for companies in **AT, DE and PL**
 - Speaking English, German and Polish
+- Teamplayer inside and outside the office
 </div>
 
 ## Your Angular Expert
