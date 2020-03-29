@@ -6,7 +6,7 @@
 - Over **7 years** of experience in Software Development
 - **3 years** experience in Angular
 - Several years working as Freelancer in **AT, DE and PL**
-- Master degree in computer science (M. Sc. Ing.)
+- Master degree in Applied Computer Science (M. Sc. Ing.)
 - Speaking English, German and Polish
 - Teamplayer inside and outside the office
 </div>
