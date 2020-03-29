@@ -3,7 +3,7 @@
 <div markdown="1" class="image-row">
 <img id="profil" align="left" width="206" height="261" src="/images/me_3.jpg" >
 
-- Over **7 years** of experience in Software Development
+- Over **10 years** of experience in Software Development
 - **3 years** experience in Angular
 - Extensive experience in agile software development with Scrum
 - Many years of backend development with Spring and Java EE
@@ -19,6 +19,18 @@ To build an easy-to-use and intuitive user interface you need an frontend develo
 
 ### CV 
 
+[2018 - now] : Frontend Developer Freelancer <br/>
+Located in central district of the Silesian Metropolis in south-west Poland.<br/>
+Working for subsidiary Raiffeisen Bankengruppe subsidiary and companies in Poland and Germany.
+
+[2016 - 2018] : Senior Systems Architect <br/>
+Austrian National Library, Vienna
+
+[2014 - 2016] : Research Associate <br/>
+The Ruhr Institute for Software Technology, Essen
+
+[2010 - 2014] : Java Software Developer </br>
+SOPTIM AG, Essen
 
 
 ### Social Media
