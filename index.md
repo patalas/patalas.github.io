@@ -5,6 +5,7 @@
 
 - Over **7 years** of experience in Software Development
 - **3 years** experience in Angular
+- Extensive experience in agile software development with Scrum and Kanban
 - Several years working as Freelancer in **AT, DE and PL**
 - Master degree in Applied Computer Science (M. Sc. Ing.)
 - Speaking English, German and Polish
@@ -16,6 +17,8 @@
 To build an easy-to-use and intuitive user interface you need an frontend developer with experience and a deep unterstanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valueable help for your proejct. 
 
 ### CV 
+
+
 
 ### Social Media
 
