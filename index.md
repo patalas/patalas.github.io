@@ -1,18 +1,12 @@
 ## Freelancer Frontend Development (Angular 9, React Native, Java) 
 
-<div markdown="1">
-<div markdown="1">
+<div markdown="1" class="image-row">
 <img id="profil" align="left" width="206" height="261" src="/images/me_3.jpg" >
-</div>
-
-<div markdown="1">
 
 - Over **7 years** of experience in Software Development
 - Master degree in computer science (M. Sc. Ing.)
 - Worked for companies in **AT, DE and PL**
 - Speaking English, German and Polish
-
-</div>
 </div>
 
 ## Your Angular Expert?
