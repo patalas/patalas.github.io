@@ -13,11 +13,15 @@
 - Teamplayer inside and outside the office
 </div>
 
-## Your Angular Expert
+## Your Angular and Java Expert
 
 To build an easy-to-use and intuitive user interface you need an frontend developer with experience and a deep unterstanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valueable help for your proejct.
 
-Use my knowledge of over 10 years of work as a developer in projects with different companies like RWE AG, Raiffeisen Bankengruppe, Ruhr Institute of Technology, Federal Ministry for Economic Affairs and Energy.
+Use my knowledge of over 10 years of work as a developer in projects with different companies like 
+- RWE AG
+- Raiffeisen Bankengruppe
+- Ruhr Institute of Technology
+- Federal Ministry for Economic Affairs and Energy.
 
 ### CV 
 
@@ -39,7 +43,7 @@ SOPTIM AG, Essen
 
 
 <div markdown="1" class="image-row">
-<img align="left" width="30" src="/images/logos/WhatsApp_Logo_1.png" >
+<img align="left" width="50" src="/images/logos/WhatsApp_Logo_1.png" >
 Message me on WhatsApp
 </div>
 
