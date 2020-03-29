@@ -1,13 +1,21 @@
 ## Freelancer Frontend Development (Angular 9, React Native, Java) 
 
+<div markdown="1">
+<div markdown="1">
 <img id="profil" align="left" width="206" height="261" src="/images/me_3.jpg" >
+</div>
+
+<div markdown="1">
 
 - Over **7 years** of experience in Software Development
 - Master degree in computer science (M. Sc. Ing.)
 - Worked for companies in **AT, DE and PL**
 - Speaking English, German and Polish
 
-### Your Angular Expert?
+</div>
+</div>
+
+## Your Angular Expert?
 
 To build an easy-to-use and intuitive user interface you need an frontend developer with experience and a deep unterstanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valueable help for your proejct. 
 
