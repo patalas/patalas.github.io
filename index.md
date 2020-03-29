@@ -38,7 +38,7 @@ The Ruhr Institute for Software Technology, Essen
 [2010 - 2014] : Java Software Developer <br/>
 SOPTIM AG, Essen
 
-[2004 - 2010] : Master Degree in Applied Computer Science
+[2004 - 2010] : Master Degree in Applied Computer Science <br/>
 Ruhr-University Bochum
 
 
