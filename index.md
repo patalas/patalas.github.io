@@ -56,6 +56,5 @@ Xing-Profile (German) : [Link](https://www.xing.com/profile/MichaelJohann_Patala
 ### Address
 Michał Patalas-Software Development<br/>
 ul.Czarna 6/7<br/>
-Sosnowiec 41-200<br/>
-Poland<br/>
+Sosnowiec 41-200, Poland<br/>
 Tax code: PL6443543777<br/>
