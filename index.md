@@ -31,6 +31,8 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
 
 ## Soft skills
 - I give you full freedom -
+- [x] flexibility and adaptabilty
+- [x] Direct communications
 
 ### CV 
 
