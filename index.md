@@ -1,4 +1,4 @@
-## Freelancer Frontend Development (Angular 9, React Native, Java) 
+## Freelancer Frontend Development (Angular 9, Java, SAP) 
 
 <div markdown="1" class="image-row">
 <img id="profil" align="left" width="206" height="261" src="/images/me_3.jpg" >
@@ -15,13 +15,22 @@
 
 ## Your Angular and Java Expert
 
-To build an easy-to-use and intuitive user interface you need an frontend developer with experience and a deep unterstanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valueable help for your project.
+To build an easy-to-use and intuitive user interface you need an frontend developer with experience and a deep unterstanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valueable help for your project. -several successfull projects- -for short and long term- 
+
+## Full stack with Spring and Java EE
+-later!-
+
+## SAP Connectvity
+-later!-
 
 Use my knowledge of over 10 years of work as a developer in projects with different companies like 
 - RWE AG
 - Raiffeisen Bankengruppe
 - Ruhr Institute of Technology
 - Federal Ministry for Economic Affairs and Energy (Germany)
+
+## Soft skills
+- I give you full freedom -
 
 ### CV 
 
