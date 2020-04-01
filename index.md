@@ -1,15 +1,14 @@
 # Right mix of contribution and technological expertise
-## Freelance Software Developer for Angular and Java
 
 Many short and long term projects testify my expert knowledge and my contribution to bring the project forward to a successfull finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish outstanding results.
 
 <div markdown="1" class="image-row">
 <img id="profil" align="left" width="206" height="261" src="/images/me_3.jpg" >
 
-- Over **10 years** of experience in Software Development
-- **3 years** experience in Angular
-- Extensive experience in agile software development with Scrum
-- Many years of backend development with Spring and Java EE
+- Over **10 years** of experience in Software Development with **Java**
+- **3 years** experience in **Angular**
+- Extensive experience in agile software development with **Scrum**
+- Many years of backend development with **Spring** and **Java EE**
 - Several years working as Freelancer in **AT, DE and PL**
 - Master degree in Applied Computer Science (M. Sc. Ing.)
 - Multilingual (English, German and Polish)
