@@ -1,4 +1,7 @@
-## Freelancer Frontend Development (Angular 9, Java, SAP) 
+# Right mix of contribution and technological expertise
+## Freelance Software Developer for Angular and Java
+
+Several short and long term projects testify my expert knowledge and my contribution to bring the project forward to a successfull finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish strog results.
 
 <div markdown="1" class="image-row">
 <img id="profil" align="left" width="206" height="261" src="/images/me_3.jpg" >
@@ -9,13 +12,14 @@
 - Many years of backend development with Spring and Java EE
 - Several years working as Freelancer in **AT, DE and PL**
 - Master degree in Applied Computer Science (M. Sc. Ing.)
-- Speaking English, German and Polish
+- Multilingual (English, German and Polish)
 - Teamplayer inside and outside the office
 </div>
 
 ## Your Angular and Java Expert
 
-To build an easy-to-use and intuitive user interface you need an frontend developer with experience and a deep unterstanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valueable help for your project. -several successfull projects- -for short and long term- 
+To build an easy-to-use and intuitive user interface you need an frontend developer with experience and a deep unterstanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valueable help for your project. 
+ 
 
 ## Full stack with Spring and Java EE
 -later!-
