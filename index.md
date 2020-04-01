@@ -1,7 +1,7 @@
 # Right mix of contribution and technological expertise
 ## Freelance Software Developer for Angular and Java
 
-Several short and long term projects testify my expert knowledge and my contribution to bring the project forward to a successfull finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish strong results.
+Several short and long term projects testify my expert knowledge and my contribution to bring the project forward to a successfull finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish outstanding results.
 
 <div markdown="1" class="image-row">
 <img id="profil" align="left" width="206" height="261" src="/images/me_3.jpg" >
