@@ -63,7 +63,7 @@ SOPTIM AG, Essen
 Ruhr-University Bochum
 
 
-### Questions
+## Questions
 You are looking for a Freelancer? <br/>
 <div markdown="1" class="image-row">
 <img align="left" height="50" src="/images/logos/WhatsApp_Logo_1.png" style="margin-right: 1rem">
