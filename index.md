@@ -21,10 +21,15 @@ To build an easy-to-use and intuitive user interface you need an frontend develo
  
 
 ## Full stack with Spring and Java EE
--later!-
+In my experience, the highest efficiency is achieved by cutting the features vertically instead of horizontally in a sprint.
+This means that the developer has to master all technologies from the data model, backend service, rest service to the frontend dialog.
+
+My approach was to understand and be able to use every important framework on the backend like Spring or Java EE in its entirety, even if you are the frontend expert.
 
 ## SAP Connectvity
--later!-
+The connection to SAP provides the challenge of uniting two worlds that are different at first glance, but are similar. For this you need an expert who has experience in ABAP but is also an expert in the Java world.
+
+With my many years of experience in ABAP combined with the knowledge from the Java and Angular world, I am of great help in realizing Java / SAP projects
 
 Use my knowledge of over 10 years of work as a developer in projects with different companies like 
 - RWE AG
