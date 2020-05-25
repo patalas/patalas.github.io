@@ -1,4 +1,4 @@
-# Right mix of contribution and technological expertise
+# Right mix of contribution and expertise
 
 Many short and long term projects testify my expert knowledge and my contribution to bring the project forward to a successfull finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish outstanding results.
 
