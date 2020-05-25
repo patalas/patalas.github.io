@@ -44,7 +44,7 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
 - Time management: Ability to work detail- oriented within timelines.
 
 
-### CV 
+## CV 
 
 [2018 - now] : Frontend Developer Freelancer <br/>
 Located in central district of the Silesian Metropolis in south-west Poland.<br/>
