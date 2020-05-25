@@ -26,7 +26,7 @@ This means that the developer has to master all technologies from the data model
 
 My approach was to understand and be able to use every important framework on the backend like Spring or Java EE in its entirety, even if you are the frontend expert.
 
-## SAP Connectvity
+## SAP Connectivity
 The connection to SAP provides the challenge of uniting two worlds that are different at first glance, but are similar. For this you need an expert who has experience in ABAP but is also an expert in the Java world.
 
 With my many years of experience in ABAP combined with the knowledge from the Java and Angular world, I am of great help in realizing Java / SAP projects
