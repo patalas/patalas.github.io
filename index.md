@@ -53,7 +53,7 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
     ['2018', '2020', 'Raiffeisen subsidiary', 'ipsum', ['Angular', 'SAP JCO', 'Spring']],
     ['2016', '2018', 'Austrian National Library', 'dolor', ['Angular', 'JAVA EE', 'NoSQL',]],
     ['2014', '2016', 'The Ruhr Institute for Software Technology', 'default',['Spring', 'Ontologies']],
-    ['2010', '2014', 'SOPTIM AG', 'ipsum',['JAVA EE', 'Oracle', 'UI-Design']]
+    ['2010', '2014', 'Soptim AG', 'ipsum',['JAVA EE', 'Oracle', 'UI-Design']]
     ]);
 </script>
 
