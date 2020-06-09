@@ -3,7 +3,7 @@
 Many short and long term projects testify my expert knowledge and my contribution to bring the project forward to a successfull finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish outstanding results.
 
 <div markdown="1" class="image-row">
-<img id="profil" align="left" width="206" height="261" src="/images/me_3.jpg" >
+<img id="profil" align="left" width="206" height="261" src="/assets/images/me_3.jpg" >
 
 - Over **10 years** of experience in Software Development with **Java**
 - **3 years** experience in **Angular**
@@ -66,7 +66,7 @@ Ruhr-University Bochum
 ## Questions
 You are looking for a Freelancer? <br/>
 <div markdown="1" class="image-row">
-<img align="left" height="50" src="/images/logos/WhatsApp_Logo_1.png" style="margin-right: 1rem">
+<img align="left" height="50" src="/assets/images/logos/WhatsApp_Logo_1.png" style="margin-right: 1rem">
 <span style="display: table-cell; height: 50px; vertical-align: middle;">Message me on WhatsApp +43 68 120 649 255 </span>
 </div>
 

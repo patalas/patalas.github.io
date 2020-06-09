@@ -1,111 +1,132 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta name="google-site-verification" content="9qfuiDtCXu-wBeX9wLQb3kjpZUSRNFC_LMlrbkWd5_M" />
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-        
-              </script>
-    {% endif %}
-    <script>
-        
-        var TxtRotate = function(el, toRotate, period) {
-  this.toRotate = toRotate;
-  this.el = el;
-  this.loopNum = 0;
-  this.period = parseInt(period, 10) || 2000;
-  this.txt = '';
-  this.tick();
-  this.isDeleting = false;
-};
 
-TxtRotate.prototype.tick = function() {
-  var i = this.loopNum % this.toRotate.length;
-  var fullTxt = this.toRotate[i];
+<head>
+  <title>Angular Frontend Freelancer - Michael J. Patalas</title>
+  <!-- google verification-->
+  <meta name="google-site-verification" content="9qfuiDtCXu-wBeX9wLQb3kjpZUSRNFC_LMlrbkWd5_M" />
+  <!-- timesheet -->
+  <script src="/assets/libs/timesheet.min.js"></script>
+  <link rel="stylesheet" href="/assets/libs/timesheet-white.min.css">
+  <script>
+    new Timesheet('timesheet', 2002, 2013, [
+      ['2002', '09/2002', 'A freaking awesome time', 'lorem'],
+      ['06/2002', '09/2003', 'Some great memories', 'ipsum'],
+      ['2003', 'Had very bad luck'],
+      ['10/2003', '2006', 'At least had fun', 'dolor'],
+      ['02/2005', '05/2006', 'Enjoyed those times as well', 'ipsum'],
+      ['07/2005', '09/2005', 'Bad luck again', 'default'],
+      ['10/2005', '2008', 'For a long time nothing happened', 'dolor'],
+      ['01/2008', '05/2009', 'LOST Season #4', 'lorem'],
+      ['01/2009', '05/2009', 'LOST Season #4', 'lorem'],
+      ['02/2010', '05/2010', 'LOST Season #5', 'lorem'],
+      ['09/2008', '06/2010', 'FRINGE #1 & #2', 'ipsum']
+    ]);
+  </script>
+  <!-- google analytics -->
+  {% if site.google_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', '{{ site.google_analytics }}');
 
-  if (this.isDeleting) {
-    this.txt = fullTxt.substring(0, this.txt.length - 1);
-  } else {
-    this.txt = fullTxt.substring(0, this.txt.length + 1);
-  }
+  </script>
+  {% endif %}
+  <script>
+    var TxtRotate = function (el, toRotate, period) {
+      this.toRotate = toRotate;
+      this.el = el;
+      this.loopNum = 0;
+      this.period = parseInt(period, 10) || 2000;
+      this.txt = '';
+      this.tick();
+      this.isDeleting = false;
+    };
 
-  this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+    TxtRotate.prototype.tick = function () {
+      var i = this.loopNum % this.toRotate.length;
+      var fullTxt = this.toRotate[i];
 
-  var that = this;
-  var delta = 300 - Math.random() * 100;
+      if (this.isDeleting) {
+        this.txt = fullTxt.substring(0, this.txt.length - 1);
+      } else {
+        this.txt = fullTxt.substring(0, this.txt.length + 1);
+      }
 
-  if (this.isDeleting) { delta /= 2; }
+      this.el.innerHTML = '<span class="wrap">' + this.txt + '</span>';
 
-  if (!this.isDeleting && this.txt === fullTxt) {
-    delta = this.period;
-    this.isDeleting = true;
-  } else if (this.isDeleting && this.txt === '') {
-    this.isDeleting = false;
-    this.loopNum++;
-    delta = 500;
-  }
+      var that = this;
+      var delta = 300 - Math.random() * 100;
 
-  setTimeout(function() {
-    that.tick();
-  }, delta);
-};
+      if (this.isDeleting) { delta /= 2; }
 
-window.onload = function() {
-  var elements = document.getElementsByClassName('txt-rotate');
-  for (var i=0; i<elements.length; i++) {
-    var toRotate = elements[i].getAttribute('data-rotate');
-    var period = elements[i].getAttribute('data-period');
-    if (toRotate) {
-      new TxtRotate(elements[i], JSON.parse(toRotate), period);
-    }
-  }
-  // INJECT CSS
-  var css = document.createElement("style");
-  css.type = "text/css";
-  css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #666 }";
-  document.body.appendChild(css);
-};
-</script>
-    <meta charset="UTF-8">
+      if (!this.isDeleting && this.txt === fullTxt) {
+        delta = this.period;
+        this.isDeleting = true;
+      } else if (this.isDeleting && this.txt === '') {
+        this.isDeleting = false;
+        this.loopNum++;
+        delta = 500;
+      }
 
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  </head>
-  <body>
-    <header class="page-header" role="banner">
-     <h1 class="project-name">{{ site.title }}</h1>
+      setTimeout(function () {
+        that.tick();
+      }, delta);
+    };
+
+    window.onload = function () {
+      var elements = document.getElementsByClassName('txt-rotate');
+      for (var i = 0; i < elements.length; i++) {
+        var toRotate = elements[i].getAttribute('data-rotate');
+        var period = elements[i].getAttribute('data-period');
+        if (toRotate) {
+          new TxtRotate(elements[i], JSON.parse(toRotate), period);
+        }
+      }
+      // INJECT CSS
+      var css = document.createElement("style");
+      css.type = "text/css";
+      css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #666 }";
+      document.body.appendChild(css);
+    };
+  </script>
+  <meta charset="UTF-8">
+
+  {% seo %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+</head>
+
+<body>
+  <header class="page-header" role="banner">
+    <h1 class="project-name">{{ site.title }}</h1>
     <h1>
-  <span
-     class="txt-rotate"
-     data-period="3000"
-     data-rotate='[ "Frontend Specialist", "Angular Expert", "Java Pro", "Teamplayer"]'></span>
+      <span class="txt-rotate" data-period="3000" data-rotate='[ "Frontend Specialist", "Angular Expert", "Java Pro", "Teamplayer"]'></span>
     </h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+    {% if site.github.is_project_page %}
+    <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+    {% endif %}
+    {% if site.show_downloads %}
+    <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+    <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+    {% endif %}
+  </header>
+
+  <main id="content" class="main-content" role="main">
+    <div id="timesheet"></div>
+    {{ content }}
+
+    <footer class="site-footer">
       {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
       {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-    </header>
+    </footer>
+  </main>
+</body>
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-      </footer>
-    </main>
-  </body>
 </html>
