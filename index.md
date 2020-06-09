@@ -77,14 +77,6 @@ Ruhr-University Bochum
 
 ## Questions
 You are looking for a Freelancer? <br/>
-<div markdown="1" class="image-row">
-<img align="left" height="50" src="/assets/images/logos/WhatsApp_Logo_1.png" style="margin-right: 1rem">
-<span style="display: table-cell; height: 50px; vertical-align: middle;">Message me on WhatsApp +43 68 120 649 255 </span>
-</div>
-
-### Social Media
-
-Xing-Profile (German) : [Link](https://www.xing.com/profile/MichaelJohann_Patalas2)
 
 <div class="box-container">
     <div class="box blurred-bg with-flex " draggable="true">
@@ -110,3 +102,5 @@ Xing-Profile (German) : [Link](https://www.xing.com/profile/MichaelJohann_Patala
     });
     </script>
 </div>
+
+Xing-Profile (German) : [Link](https://www.xing.com/profile/MichaelJohann_Patalas2)
