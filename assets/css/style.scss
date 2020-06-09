@@ -355,7 +355,10 @@ li {
   background-attachment: fixed;
   height: 25rem;
   min-width: 700px;
-  font-family:Raleway, Open Sans, Droid Sans, Roboto, arial, sans-serif;
+}
+
+.raleway {
+  font-family: Raleway, Open Sans, Droid Sans, Roboto, sans-serif, arial;
 }
 
 .box {
