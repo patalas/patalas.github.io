@@ -81,8 +81,8 @@ Working for subsidiary Raiffeisen Bankengruppe subsidiary and companies in Polan
     </div>
     <div class="box-content" style="flex: 3">
         <h1 style="color: #ffffff; font-size: 1.5rem;">Ing. M.Sc.<br /> Michael Johann Patalas</h1>
-        <h2 style="color: #ffffff">+43 68 120 649 255</h2>
-        <h2 style="color: #ffffff">Software Development Freelancer</h2>
+        <h2 style="color: #ffffff; margin-top: 0">+43 68 120 649 255</h2>
+        <h2 style="color: #ffffff; margin-top: 0">Software Development Freelancer</h2>
         <p style="color: #ffffff">
         Ulica Czarna 6/7, Sosnowiec 41-200, Poland<br />
         Tax code: PL6443543777<br />
