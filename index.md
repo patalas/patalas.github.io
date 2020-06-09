@@ -71,7 +71,7 @@ Working for subsidiary Raiffeisen Bankengruppe subsidiary and companies in Polan
 [2004 - 2010] : Master Degree in Applied Computer Science, Ruhr-University Bochum
 
 ## Questions?
-### You are looking for a Freelancer? <br/>
+### You are looking for a Freelancer? Please call me. Gerne auch auf Deutsch.<br/>
 
 <div class="box-container">
     <div class="box blurred-bg with-flex " draggable="true">
