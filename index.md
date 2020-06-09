@@ -89,13 +89,15 @@ Working for subsidiary Raiffeisen Bankengruppe subsidiary and companies in Polan
         </p>
     </div>
     </div>
-    <script>
+    <!--<script>
+        
     $(function () {
         $(".box").draggable({
         containment: "parent"
         });
     });
     </script>
+    -->
 </div>
 
 Xing-Profile (German) : [Link](https://www.xing.com/profile/MichaelJohann_Patalas2)
