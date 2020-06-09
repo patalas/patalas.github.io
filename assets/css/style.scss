@@ -28,6 +28,11 @@ li {
   height: 292px;
   margin: 0 auto
 }
+.timesheet {
+  width: 720px;
+  height: 292px;
+  margin: 0 auto
+}
 
 .timesheet {
   border-top: 1px solid rgba(250, 250, 250, 0.5);
@@ -174,8 +179,6 @@ li {
   color: RGBA(48, 48, 48, 1)
 }
 
-/*# sourceMappingURL=timesheet.min.css.map */
-
 .white .timesheet {
   width: 920px;
   height: 292px;
@@ -262,12 +265,13 @@ li {
 .white .timesheet .data li {
   margin: 0 0 3px 0;
   line-height: 22px;
-  height: 21px;
+  height: 30px;
   display: block;
   cursor: pointer;
   clear: both;
   position: relative;
-  white-space: nowrap
+  white-space: nowrap;
+  margin-top: 10px;
 }
 
 .white .timesheet .data li:hover .bubble {
@@ -276,28 +280,73 @@ li {
 
 .white .timesheet .data li .date {
   color: #797979;
-  font-size: 14px
+  font-size: 17px
 }
 
 .white .timesheet .data li .label {
-  font-weight: lighter;
-  font-size: 14px;
+  font-weight: 120;
+  font-size: 17px;
   padding-left: 5px;
   line-height: 21px;
   color: #333332;
-  white-space: nowrap
+  white-space: nowrap;
+  margin-right: 0.3rem;
 }
 
 .white .timesheet .data li .bubble {
   width: 24px;
-  height: 7px;
+  height: 15px;
   display: block;
   float: left;
   position: relative;
-  top: 7px;
+  top: 3px;
   border-radius: 4px;
   margin: 0 10px 0 0;
   opacity: 0.7
 }
 
-/*# sourceMappingURL=timesheet-white.min.css.map */
+.timesheet .data .feature {
+  font-weight: lighter;
+  font-size: 12px;
+  padding-left: 5px;
+  line-height: 21px;
+  color: #ffffff;
+  white-space: nowrap;
+  background-color: black;
+  padding: 0.3rem 0.8rem;
+  margin-left: 0.3rem;
+  margin-right: 0;
+  border-radius: 30px;
+}
+
+.feature-angular {
+  background-color: #13B9A5 !important;
+}
+
+.feature-javaee {
+  background-color: #4A9675 !important;
+}
+
+.feature-sapjco {
+  background-color: #D0257A !important;
+}
+
+.feature-spring {
+  background-color: #B88400 !important;
+}
+
+.feature-nosql {
+  background-color: #118EA7 !important;
+}
+
+.feature-ontologies {
+  background-color: #57496F !important;
+}
+
+.feature-oracle {
+  background-color: #650F6B !important;
+}
+
+.feature-ui-design {
+  background-color: #2D4462 !important;
+}
