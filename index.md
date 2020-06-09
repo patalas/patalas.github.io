@@ -89,7 +89,7 @@ Xing-Profile (German) : [Link](https://www.xing.com/profile/MichaelJohann_Patala
 <div class="box-container">
     <div class="box blurred-bg with-flex " draggable="true">
     <div style="flex: 1">
-        <img src="assets/images/qr-code-wa.png" height="200px"><br />
+        <img src="/assets/images/qr-code-wa.png" height="200px"><br />
         WhatsApp
     </div>
     <div class="box-content" style="flex: 3">
