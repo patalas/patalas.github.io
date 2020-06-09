@@ -3,11 +3,16 @@
 
 @import "{{ site.theme }}";
 
+.project-name {
+  color: #159957;
+}
+
 .page-header {
   display: block;
   margin-top: 1.5rem;
   background: url(/assets/images/bg-2.jpg) center top no-repeat;
   background-color: #333;
+  color: #991578;
 }
 
 .image-row:after {
