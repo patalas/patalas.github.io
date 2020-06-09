@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,400,700);
+
 .project-name {
   color: #159957;
 }
@@ -353,6 +355,7 @@ li {
   background-attachment: fixed;
   height: 25rem;
   min-width: 700px;
+  font-family:Raleway, Open Sans, Droid Sans, Roboto,arial, sans-serif;
 }
 
 .box {
