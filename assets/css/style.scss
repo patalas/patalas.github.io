@@ -345,3 +345,45 @@ li {
 .feature-ui-design {
   background-color: rgb(52, 73, 100) !important;
 }
+
+
+
+.box-container {
+  background-image:url("assets/images/phone.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 40rem;
+  min-width: 700px;
+}
+
+.box {
+  width: 650px;
+  height: 300px;
+  left: 5%;
+  top: 20%;
+  position: absolute;
+  border-radius: 5px;
+  box-shadow: 0 20px 30px rgba(0, 0, 0, .6);
+  border: 1px solid rgba(255, 255, 255, .3);
+  padding: 20px;
+  text-align: center;
+  box-sizing: border-box;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
+  display: flex;
+  transition: box-shadow .3s ease;
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+
+.with-flex {
+  display: flex; flex-flow: row wrap; align-items: center;
+}
+
+.blurred-bg {
+	background-image:url("assets/images/phone-bg.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}

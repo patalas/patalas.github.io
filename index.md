@@ -86,8 +86,27 @@ You are looking for a Freelancer? <br/>
 
 Xing-Profile (German) : [Link](https://www.xing.com/profile/MichaelJohann_Patalas2)
 
-### Address
-Michał Patalas-Software Development<br/>
-ul.Czarna 6/7<br/>
-Sosnowiec 41-200, Poland<br/>
-Tax code: PL6443543777<br/>
+<div class="box-container">
+    <div class="box blurred-bg with-flex " draggable="true">
+    <div style="flex: 1">
+        <img src="assets/images/qr-code-wa.png" height="200px"><br />
+        WhatsApp
+    </div>
+    <div class="box-content" style="flex: 3">
+        <h1>Ing. M.Sc.<br /> Michael Johann Patalas</h1>
+        <h2>+43 68 120 649 255</h2>
+        <h2>Software Development Freelancer</h2>
+        <p>
+        Ulica Czarna 6/7, Sosnowiec 41-200, Poland<br />
+        Tax code: PL6443543777<br />
+        </p>
+    </div>
+    </div>
+    <script>
+    $(function () {
+        $(".box").draggable({
+        containment: "parent"
+        });
+    });
+    </script>
+</div>
