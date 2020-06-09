@@ -50,7 +50,7 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
 </div>
 <script>
     new Timesheet('timesheet', 2013, 2020, [
-    ['2018', '2020', 'Raiffeisen Subsidiary', 'ipsum', ['Angular', 'SAP JCO', 'Spring']],
+    ['2018', '2020', 'Raiffeisen Sub.', 'ipsum', ['Angular', 'SAP JCO', 'Spring']],
     ['2016', '2018', 'Austrian National Library', 'dolor', ['Angular', 'JAVA EE', 'NoSQL',]],
     ['2014', '2016', 'The Ruhr Institute for Software Technology', 'default',['Spring', 'Ontologies']],
     ['2010', '2014', 'Soptim AG', 'ipsum',['JAVA EE', 'Oracle', 'UI-Design']]
