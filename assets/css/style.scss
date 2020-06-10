@@ -356,6 +356,10 @@ li {
   min-width: 700px;
 }
 
+.small-box-container {
+  display: none;
+}
+
 .raleway {
   font-family: Raleway, Open Sans, Droid Sans, Roboto, sans-serif, arial;
 }
@@ -447,4 +451,13 @@ li {
   margin-left: 1rem;
   margin-bottom: 1.5rem;
   font-family: Raleway, Open Sans, Droid Sans, Roboto, sans-serif, arial;
+}
+
+@media screen and (max-width: 1024px) {
+  .box-container {
+      display: none !important;
+  }
+  .small-box-container {
+    display: block !important;
+  }
 }
