@@ -1,7 +1,8 @@
-# Boost Your Development! Right Mix of Contribution and Expertise
+# Right Mix of Contribution and Expertise
 
 Many short and long term projects testify my expert knowledge and my contribution to bring the project forward to a successfull finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish outstanding results.
 
+# Boost Your Development! 
  <div class="profile-container">
     <div class="profile-pic">
     <img width="206" height="261" src="assets/images/me_3.jpg">
