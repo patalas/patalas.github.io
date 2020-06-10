@@ -17,6 +17,15 @@ Many short and long term projects testify my expert knowledge and my contributio
         </div>
     </div>
 </div>
+<div class="small-top-container">
+    <div class="top-box">
+        <div>Over 10 years in Development</div>
+        <div>Angular 10 - Bootstrap - Spring</div>
+        <div>ABAP Programmer</div>
+        <div>English & German</div>
+        <div>Teamplayer</div>
+    </div>
+</div>
 
 ## Call or Write me for Projects in Europe
 <div class="box-container">
@@ -36,7 +45,6 @@ Many short and long term projects testify my expert knowledge and my contributio
     </div>
     </div>
     <!--<script>
-        
     $(function () {
         $(".box").draggable({
         containment: "parent"
@@ -46,10 +54,10 @@ Many short and long term projects testify my expert knowledge and my contributio
     -->
 </div>
 <div class="small-box-container">
-<h1 class="raleway" style="color: #ffffff; font-size: 1.5rem;">Ing. M.Sc.<br /> Michael Johann Patalas</h1>
-    <h2 style="color: #ffffff; margin-top: 0">+43 68 120 649 255</h2>
-    <h2 class="raleway" style="color: #ffffff; margin-top: 0">java.blick @ gmail.com</h2>
-    <p style="color: #ffffff">
+<h1 class="raleway" style="color: #000000; font-size: 1.5rem;">Ing. M.Sc.<br /> Michael Johann Patalas</h1>
+    <h2 style="color: #000000; margin-top: 0">+43 68 120 649 255</h2>
+    <h2 class="raleway" style="color: #000000; margin-top: 0">java.blick @ gmail.com</h2>
+    <p style="color: #000000">
     Ulica Czarna 6/7, Sosnowiec 41-200, Poland<br />
     Tax code: PL6443543777<br />
     </p>
