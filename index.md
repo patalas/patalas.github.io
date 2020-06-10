@@ -2,17 +2,19 @@
 
 Many short and long term projects testify my expert knowledge and my contribution to bring the project forward to a successfull finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish outstanding results.
 
-<div markdown="1" class="image-row">
-<img id="profil" align="left" width="206" height="261" src="/assets/images/me_3.jpg" >
-
-- Over **10 years** of experience in Software Development with **Java**
-- **3 years** experience in **Angular**
-- Extensive experience in agile software development with **Scrum**
-- Many years of backend development with **Spring** and **Java EE**
-- Several years working as Freelancer in **AT, DE and PL**
-- Master degree in Applied Computer Science (M. Sc. Ing.)
-- Multilingual (English, German and Polish)
-- Teamplayer inside and outside the office
+ <div class="profile-container">
+    <div class="profile-pic">
+    <img width="206" height="261" src="assets/images/me_3.jpg">
+    </div>
+    <div class=top-container>
+    <div class="top-box">
+        <div>Over 10 years in Development</div>
+        <div>Angular - Spring - Java EE</div>
+        <div>ABAP Programmer</div>
+        <div>English & German</div>
+        <div>Teamplayer</div>
+    </div>
+    </div>
 </div>
 
 ### You are looking for a Freelancer? Please call me. Gerne auch auf Deutsch.<br/>
