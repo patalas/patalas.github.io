@@ -1,4 +1,4 @@
-# Right mix of contribution and expertise
+# Boost Your Development! Right Mix of Contribution and Expertise
 
 Many short and long term projects testify my expert knowledge and my contribution to bring the project forward to a successfull finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish outstanding results.
 
@@ -7,17 +7,17 @@ Many short and long term projects testify my expert knowledge and my contributio
     <img width="206" height="261" src="assets/images/me_3.jpg">
     </div>
     <div class="top-container">
-    <div class="top-box">
-        <div>Over 10 years in Development</div>
-        <div>Angular - Spring - Java EE</div>
-        <div>ABAP Programmer</div>
-        <div>English & German</div>
-        <div>Teamplayer</div>
-    </div>
+      <div class="top-box">
+          <div>Over 10 years in Development</div>
+          <div>Angular 10 - Bootstrap - Spring</div>
+          <div>ABAP Programmer</div>
+          <div>English & German</div>
+          <div>Teamplayer</div>
+        </div>
     </div>
 </div>
 
-### You are looking for a Freelancer? Please call me. Gerne auch auf Deutsch.<br/>
+### You are looking for a Freelancer to Boost your current project?<br/>
 
 <div class="box-container">
     <div class="box blurred-bg with-flex " draggable="true">
