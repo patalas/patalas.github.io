@@ -18,7 +18,7 @@ Many short and long term projects testify my expert knowledge and my contributio
     </div>
 </div>
 
-### Call or Write me for Projects in Europe
+## Call or Write me for Projects in Europe
 <div class="box-container">
     <div class="box blurred-bg with-flex " draggable="true">
     <div style="flex: 0 200px">
