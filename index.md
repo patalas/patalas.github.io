@@ -6,7 +6,7 @@ Many short and long term projects testify my expert knowledge and my contributio
     <div class="profile-pic">
     <img width="206" height="261" src="assets/images/me_3.jpg">
     </div>
-    <div class=top-container>
+    <div class="top-container">
     <div class="top-box">
         <div>Over 10 years in Development</div>
         <div>Angular - Spring - Java EE</div>
