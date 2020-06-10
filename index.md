@@ -18,8 +18,7 @@ Many short and long term projects testify my expert knowledge and my contributio
     </div>
 </div>
 
-### You are looking for a Freelancer to Boost your current project?<br/>
-
+### Call or Write me for Projects in Europe
 <div class="box-container">
     <div class="box blurred-bg with-flex " draggable="true">
     <div style="flex: 0 200px">
@@ -29,7 +28,7 @@ Many short and long term projects testify my expert knowledge and my contributio
     <div class="box-content" style="flex: 3">
         <h1 class="raleway" style="color: #ffffff; font-size: 1.5rem;">Ing. M.Sc.<br /> Michael Johann Patalas</h1>
         <h2 style="color: #ffffff; margin-top: 0">+43 68 120 649 255</h2>
-        <h2 class="raleway" style="color: #ffffff; margin-top: 0">Software Development Freelancer</h2>
+        <h2 class="raleway" style="color: #ffffff; margin-top: 0">java.blick @ gmail.com</h2>
         <p style="color: #ffffff">
         Ulica Czarna 6/7, Sosnowiec 41-200, Poland<br />
         Tax code: PL6443543777<br />
