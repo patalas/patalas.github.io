@@ -18,11 +18,11 @@ Many short and long term projects testify my expert knowledge and my contributio
     </div>
 </div>
 <div class="small-top-container">
-- Over 10 years in Development
-- Angular 10 - Bootstrap - Spring
-- ABAP Programmer
-- English & German
-- Teamplayer
+- Over 10 years in Development<br/>
+- Angular 10 - Bootstrap - Spring<br/>
+- ABAP Programmer<br/>
+- English & German<br/>
+- Teamplayer<br/>
 </div>
 
 ## Call or Write me for Projects in Europe

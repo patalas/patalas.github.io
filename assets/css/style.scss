@@ -453,6 +453,12 @@ li {
   font-family: Raleway, Open Sans, Droid Sans, Roboto, sans-serif, arial;
 }
 
+.small-top-container {
+  font-family: Raleway, Open Sans, Droid Sans, Roboto, sans-serif, arial;
+  font-size: 1.5rem;
+  line-height: 3rem;
+}
+
 @media screen and (max-width: 1024px) {
   .box-container {
       display: none !important;
