@@ -10,7 +10,6 @@
             min: min,
             max: max
         };
-        console.log("year", this.year);
         this.parse(data || []);
 
         if (typeof document !== 'undefined') {
@@ -54,12 +53,9 @@
      */
     Timesheet.prototype.drawSections = function () {
         var html = [];
-
-        console.log("year", this.year.min);
         for (var c = this.year.min; c <= this.year.max; c++) {
             html.push('<section>' + c + '</section>');
         }
-
         this.container.className = 'timesheet color-scheme-default';
         this.container.innerHTML = '<div class="scale">' + html.join('') + '</div>';
     };
