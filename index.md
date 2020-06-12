@@ -75,9 +75,9 @@ My approach was to understand and be able to use every important framework on th
 ## SAP Connectivity
 The connection to SAP provides the challenge of uniting two worlds that are different at first glance, but are similar. For this you need an expert who has experience in ABAP but is also an expert in the Java world.
 
-With my many years of experience in ABAP combined with the knowledge from the Java and Angular world, I am of great help in realizing Java / SAP projects
+With my many years of experience in ABAP combined with the knowledge from the Java and Angular world, I am of great help in realizing Java / SAP projects.
 
-Use my knowledge of over 10 years of work as a developer in projects with different companies like 
+Use my knowledge of over 10 years of work as a developer in projects with different companies like: 
 - RWE AG
 - Raiffeisen Bankengruppe
 - Ruhr Institute of Technology
