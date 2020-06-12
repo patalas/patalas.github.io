@@ -84,10 +84,10 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
 - Federal Ministry for Economic Affairs and Energy (Germany)
 
 ## Soft skills
-- Critical thinking : Good analytical skills for problem solving.
-- Effective Teamwork communication. 
-- Flexibilty and adaptability.
-- Time management: Ability to work detail- oriented within timelines.
+- Critical thinking : Good analytical skills for problem solving
+- Effective Teamwork communication 
+- Flexibilty and adaptability
+- Time management: Ability to work detail- oriented within timelines
 
 
 ## CV 
