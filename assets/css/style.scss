@@ -11,7 +11,10 @@
 .page-header {
   display: block;
   margin-top: 1.5rem;
-  background: url(/assets/images/bg-2.jpg) center top no-repeat;
+  background: url("/assets/images/desktop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   background-color: #ffff;
   color: #991578;
 }
