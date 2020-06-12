@@ -10,10 +10,9 @@
 
 .page-header {
   display: block;
-  margin-top: 1.5rem;
   background: url("/assets/images/desktop.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-attachment: fixed;
   background-color: #ffff;
   color: #991578;
