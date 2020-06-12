@@ -115,6 +115,3 @@ Working for subsidiary Raiffeisen Bankengruppe subsidiary and companies in Polan
 [2010 - 2014] : Java Software Developer, Soptim AG, Essen
 
 [2004 - 2010] : Master Degree in Applied Computer Science, Ruhr-University Bochum
-
-
-Xing-Profile (German) : [Link](https://www.xing.com/profile/MichaelJohann_Patalas2)
