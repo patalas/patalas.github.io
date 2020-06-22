@@ -1,6 +1,6 @@
 # Right Mix of Contribution and Expertise
 
-Many long and short term projects testify my expert knowledge and my contribution to bring the project forward to a successful finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish outstanding results.
+Many long and short term contributions testify my expert knowledge and my contribution to bring the project forward to a successful finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish outstanding results.
 
 # Boost Your Development! 
  <div class="profile-container">
