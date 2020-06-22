@@ -19,7 +19,7 @@ Many long and short term projects testify my expert knowledge and my contributio
 </div>
 <div class="small-top-container">
 - 10 years in Software Development<br/>
-- Angular 10 - Bootstrap - Spring<br/>
+- Angular 9 - Bootstrap - Spring<br/>
 - ABAP experience<br/>
 - English & German<br/>
 - Teamplayer<br/>
