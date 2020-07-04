@@ -2,7 +2,7 @@
 
 Many long and short term contracts testify my expert knowledge and my contribution to bring the project forward to a successful finish. With a understanding of the customer’s business and needs I work every day with companies in Europe to accomplish outstanding results.
 
-# Angular Showcase
+## Angular Showcase
 
 Check out my angular showcase: [https://angular-showcase-mpa.web.app](https://angular-showcase-mpa.web.app/)
 
