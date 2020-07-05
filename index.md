@@ -4,7 +4,7 @@ Many long and short term contracts testify my expert knowledge and my contributi
 
 ## Angular Showcase
 
-Check out my angular showcase: [https://angular-showcase-mpa.web.app](https://angular-showcase-mpa.web.app/) (hosted by Google Firebase)
+Check out my Angular showcase: [https://angular-showcase-mpa.web.app](https://angular-showcase-mpa.web.app/) (hosted by Firebase)
 
 # Boost Your Development! 
  <div class="profile-container">
