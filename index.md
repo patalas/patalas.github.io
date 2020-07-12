@@ -70,7 +70,7 @@ Check out my Angular showcase: [https://angular-showcase-mpa.web.app](https://an
 To build an easy-to-use and intuitive user interface you need a frontend developer with experience and a deep understanding of the used frameworks. With over 3 years of experience in frontend development in Angular I will be a valuable help for your project. 
  
 
-## Full-stack with Spring and Java EE
+## Full-Stack with Spring and Java EE
 In my experience, the highest efficiency is achieved by cutting the features vertically instead of horizontally in a sprint.
 This means that the developer has to master all technologies from the data model, backend service, rest service to the frontend dialog.
 
