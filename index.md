@@ -108,7 +108,7 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
 </script>
 
 
-[2018 - now]: Frontend Developer Freelancer <br/>
+[2018 - now] Frontend Developer Freelancer <br/>
 Located in the central district of the Silesian Metropolis in south-west Poland.<br/>
 Working for subsidiary Raiffeisen Bankengruppe subsidiary and companies in Poland and Germany.
 
