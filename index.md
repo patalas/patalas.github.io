@@ -108,14 +108,14 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
 </script>
 
 
-[2018 - now] Frontend Developer Freelancer <br/>
+[2018 - now] - Frontend Developer Freelancer <br/>
 Located in the central district of the Silesian Metropolis in south-west Poland.<br/>
 Working for subsidiary Raiffeisen Bankengruppe subsidiary and companies in Poland and Germany.
 
-[2016 - 2018] Senior Systems Architect, Austrian National Library, Vienna
+[2016 - 2018] - Senior Systems Architect, Austrian National Library, Vienna
 
-[2014 - 2016] Research Associate, The Ruhr Institute for Software Technology, Essen
+[2014 - 2016] - Research Associate, The Ruhr Institute for Software Technology, Essen
 
-[2010 - 2014] Java Software Developer, Soptim AG, Essen
+[2010 - 2014] - Java Software Developer, Soptim AG, Essen
 
-[2004 - 2010] Master Degree in Applied Computer Science, Ruhr-University Bochum
+[2004 - 2010] - Master Degree in Applied Computer Science, Ruhr-University Bochum
