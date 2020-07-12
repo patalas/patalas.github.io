@@ -57,7 +57,7 @@ Check out my Angular showcase: [https://angular-showcase-mpa.web.app](https://an
 </div>
 <div class="small-box-container">
 <h1 class="raleway" style="color: #000000; font-size: 1.5rem;">Ing. M.Sc.<br /> Michael Johann Patalas</h1>
-    <h2 style="color: #000000; margin-top: 0">+43 68 120 649 255</h2>
+    <h2 style="color: #000000; margin-top: 0">+48 571 914 211</h2>
     <h2 class="raleway" style="color: #000000; margin-top: 0">java.blick @ gmail.com</h2>
     <p style="color: #000000">
     Ulica Czarna 6/7, Sosnowiec 41-200, Poland<br />
