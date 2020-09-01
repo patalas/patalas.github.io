@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Ing. M.Sc. Michael Johann Patalas
 logo: images/me.jpg
 description: Freelancer With Over 10 Years' Experience in Software Development
+plugins:
+  - jekyll-sitemap
