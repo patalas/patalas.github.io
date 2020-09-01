@@ -8,7 +8,7 @@ Check out my Angular showcase: [https://angular-showcase-mpa.web.app](https://an
 
 ## Progressive Web App (PWA)
 
-Also take a look on my PWA on Desktop or Mobile. [https://filterx3.web.app/](https://filterx3.web.app/)
+Also take a look on my PWA on Desktop or Mobile: [https://filterx3.web.app](https://filterx3.web.app)
 
  <img src="/assets/images/lighthouse.png" alt="Lighthouse resulst"><br />
 
