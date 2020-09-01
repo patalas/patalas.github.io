@@ -6,6 +6,12 @@ Many long and short term contracts testify my expert knowledge and my contributi
 
 Check out my Angular showcase: [https://angular-showcase-mpa.web.app](https://angular-showcase-mpa.web.app/) (hosted by Firebase)
 
+## Progressive Web App (PWA)
+
+Also take a look on my PWA on Desktop or Mobile. [https://filterx3.web.app/](https://filterx3.web.app/)
+
+ <img src="/assets/images/lighthouse.png" alt="Lighthouse resulst"><br />
+
 # Boost Your Development! 
  <div class="profile-container">
     <div class="profile-pic">
