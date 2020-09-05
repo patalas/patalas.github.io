@@ -128,6 +128,7 @@ Working for subsidiary Raiffeisen Bankengruppe subsidiary and companies in Polan
 
 ## Off Topic
 ## Donation 
+Through my previous trips to Peru, I witnessed the heartwarming hospitality of the native people. They are working hard, to offer the tourists the most pleasant stay. Through Covid-19 the borders are closed and the situation gets worse.  If you have a few seconds, please take a look at the page below. Thank you.
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/COVID-Relief-for-Peruvian-Families-and-Children/widget/large/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
