@@ -125,3 +125,9 @@ Working for subsidiary Raiffeisen Bankengruppe subsidiary and companies in Polan
 [2010 - 2014] - Java Software Developer, Soptim AG, Essen
 
 [2004 - 2010] - Master Degree in Applied Computer Science, Ruhr-University Bochum
+
+## Off Topic
+## Donation 
+
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/COVID-Relief-for-Peruvian-Families-and-Children/widget/large/"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+
