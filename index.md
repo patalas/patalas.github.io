@@ -1,6 +1,14 @@
+---
+layout: default
+title: patalas.github.io
+tagline: Right Mix of Contribution and Expertise
+---
 # Right Mix of Contribution and Expertise
 
 Many long and short term contracts testify my expert knowledge and my contribution to bring the project forward to a successful finish. With an understanding of the customer’s business and needs, I work every day with companies in Europe to accomplish outstanding results.
+
+## Angular Stats
+Take a look at the statistics of the hundred most star rated Angular projects on GitHub: [link](/stats.html)
 
 ## Angular Showcase
 
@@ -108,7 +116,7 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
 </div>
 <script>
     new Timesheet('timesheet', 2013, 2020, [
-    ['2018', '2020', 'Raiffeisen Sub.', 'ipsum', ['Angular', 'SAP JCO', 'Spring']],
+    ['2018', '2020', 'BAT Raiffeisen', 'ipsum', ['Angular', 'SAP JCO', 'Spring']],
     ['2016', '2018', 'Austrian National Library', 'dolor', ['Angular', 'JAVA EE', 'NoSQL',]],
     ['2014', '2016', 'The Ruhr Institute for Software Technology', 'default',['Spring', 'Ontologies']],
     ['2010', '2014', 'Soptim AG', 'ipsum',['JAVA EE', 'Oracle', 'UI-Design']]
@@ -116,9 +124,9 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
 </script>
 
 
-[2018 - now] - Frontend Developer Freelancer <br/>
+[2018 - 2020] - Frontend Developer Freelancer <br/>
 Located in the central district of the Silesian Metropolis in south-west Poland.<br/>
-Working for subsidiary Raiffeisen Bankengruppe subsidiary and companies in Poland and Germany.
+Working for BAT (Raiffeisen Bankengruppe subsidiary) and companies in Poland and Germany.
 
 [2016 - 2018] - Senior Systems Architect, Austrian National Library, Vienna
 

@@ -6,6 +6,15 @@
 
 .project-name {
   color: #159957;
+  font-size: 2.9rem;
+  font-weight: 500;
+}
+
+
+@media screen and (min-width: 64em) {
+  .page-header {
+      padding: 1.5rem 6rem 0.5rem 6rem;
+  }
 }
 
 .page-header {
