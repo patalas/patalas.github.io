@@ -69,7 +69,7 @@ function makeChart(data) {
 </script>
 Suprisingly only half of the repositories are on major version 11 or 10. We had suspect a much higher percentage. What was shocking to us was that 11% are still on Version 6 or lower. Version 6 was realeased in May 2018.
 
-## Dec/2020 TSLint vs ESLint
+## Dec/2020: Migration to ESLint
 TSLint is deprecated since 2019. It is highly recommend to migrate to ESLint as soon as possible. We asked ourselves, how many projects already moved to ESLint and how many still stick with TSLint.
 <div style="padding: 0 5rem"><canvas id="linter"></canvas></div>
 <script>
