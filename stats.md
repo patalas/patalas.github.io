@@ -6,13 +6,13 @@ filename: stats.md
 ## Stats of 100 Angular repositories with the most stars on GitHub
 
 ## Motivation
-While Angular is one of the most well-known frontend frameworks, there is very little information available about the projects using it. This page tries to answer interesting questions about the usage of Angular. If you have any further questions, please [contact me](https://patalas.github.io).
+While Angular is one of the most well-known frontend frameworks, there is very little information about the projects using it. This page tries to answer interesting questions about the usage of Angular. If you have any further questions, please [contact me](https://patalas.github.io).
 
 ## Subject
-The statistics are based on one hundred Angular repositories which have been awarded the most stars on GitHub. For us, an Angular repository is Angular tagged and uses angular-core. Here you find a [list of all repositories](#list-of-all-repositories) which were evaluated in this study. 
+The statistics are based on one hundred Angular repositories with the most stars on GitHub. For us, an Angular repository is Angular tagged and uses angular-core. Here you find a [list of all repositories](#list-of-all-repositories) which were evaluated in this study. 
 
 ## Dec/2020: Which Angular Core Version is used?
-One of the most interesting questions was on which major version most of the repositories are.
+Major version of @angular/core based on the dependency in the package.json (latest master branch).
 <canvas id="core"></canvas>
 <script>
 d3.csv('/assets/stats/versions.csv')
