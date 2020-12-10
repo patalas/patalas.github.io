@@ -9,10 +9,10 @@ filename: stats.md
 While Angular is one of the most well-known frontend frameworks, there is very little information available about the projects using it. This page tries to answer interesting questions about the usage of Angular. If you have any further questions, please [contact me](https://patalas.github.io).
 
 ## Subject
-The statistics is based on one hundred Angular repositories which have been awarded with the most stars on GitHub. For us a Angular repository is Angular tagged and uses angular-core. At the end you find a [list of all repositories](#list-of-all-repositories) which were evaluated in this study. 
+The statistics are based on one hundred Angular repositories which have been awarded the most stars on GitHub. For us, an Angular repository is Angular tagged and uses angular-core. Here you find a [list of all repositories](#list-of-all-repositories) which were evaluated in this study. 
 
 ## Dec/2020: Which Angular Core Version is used?
-On of the most interesting question was on which major version most of the repositories are.
+One of the most interesting questions was on which major version most of the repositories are.
 <canvas id="core"></canvas>
 <script>
 d3.csv('/assets/stats/versions.csv')
@@ -67,10 +67,10 @@ function makeChart(data) {
     }});
 };
 </script>
-Suprisingly only half of the repositories are on major version 11 or 10. We had suspect a much higher percentage. What was shocking to us was that 11% are still on Version 6 or lower. Version 6 was realeased in May 2018.
+Surprisingly only half of the repositories are on major version 11 or 10. We had suspected a much higher percentage. What was shocking to us was that 11% are still on Version 6 or lower. Version 6 was released in May 2018.
 
 ## Dec/2020: Migration to ESLint
-TSLint is deprecated since 2019. It is highly recommend to migrate to ESLint as soon as possible. We asked ourselves, how many projects already moved to ESLint and how many still stick with TSLint.
+TSLint is deprecated since 2019. It is highly recommended to migrate to ESLint as soon as possible. We asked ourselves, how many projects already moved to ESLint and how many still stick with TSLint.
 <div style="padding: 0 5rem"><canvas id="linter"></canvas></div>
 <script>
 d3.csv('/assets/stats/linter.csv')
@@ -115,12 +115,12 @@ function makeChart(data) {
     }});
 };
 </script>
-Only few percent of the projects already migrated to ESLint. It will be interesting to see how this number increase with time. 
+Only a few percent of the projects already migrated to ESLint. It will be interesting to see how this number increase with time.
 ## What is coming next?
 We have some questions in our backlog. Coming soon.
 
 ## List of all repositories
-This is the list of all one hundred evaluated repositories for this study. To get this list, we get a list of over 200 Angular tagged repositories with the most stars given in GitHub. After that we removed all repositories, which do not use the @angular-core dependency. This are most likely repositories, which are related to Angular, like for example the Angular project itself, but they do not use Angular. For the remaining we took the first one hundred with the most stars, which are listed below. 
+This is the list of all one hundred evaluated repositories for this study. To get this list, we get a list of over 200 Angular tagged repositories with the most stars given in GitHub. After that, we removed all repositories, which do not use the @angular-core dependency. These are most likely repositories, which are related to Angular, like for example the Angular project itself, but they do not use Angular. For the remaining, we took the first one hundred with the most stars, which are listed below.
 - SortableJS/ngx-sortablejs <https://github.com/SortableJS/ngx-sortablejs>
 - ngrx/example-app <https://github.com/ngrx/example-app>
 - sweetalert2/ngx-sweetalert2 <https://github.com/sweetalert2/ngx-sweetalert2>
