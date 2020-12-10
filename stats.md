@@ -70,7 +70,7 @@ function makeChart(data) {
 Surprisingly only half of the repositories are on major version 11 or 10. We had suspected a much higher percentage. Around 11% are still on Version 6 or lower.
 
 ## Dec/2020: Migration to ESLint
-TSLint is deprecated since 2019. It is highly recommended to migrate to ESLint as soon as possible. We asked ourselves, how many projects already moved to ESLint and how many still stick with TSLint.
+TSLint is deprecated by the project creators. It is highly recommended to migrate to ESLint as soon as possible. We asked ourselves, how many projects already moved to ESLint and how many still stick with TSLint.
 <div style="padding: 0 10rem"><canvas id="linter"></canvas></div>
 <script>
 d3.csv('/assets/stats/linter.csv')
