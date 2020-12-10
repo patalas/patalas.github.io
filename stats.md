@@ -6,7 +6,7 @@ filename: stats.md
 ## Stats of 100 Angular repositories with the most stars on GitHub
 
 ## Motivation
-While Angular is one of the most well-known frontend frameworks, there is very little information available about the projects using it. This page tries to answer interesting questions about the usage of Angular. If you have any further questions, please contact me. My [main page](https://patalas.github.io).
+While Angular is one of the most well-known frontend frameworks, there is very little information available about the projects using it. This page tries to answer interesting questions about the usage of Angular. If you have any further questions, please [contact me](https://patalas.github.io).
 
 ## Subject
 The statistics is based on one hundred Angular repositories which have been awarded with the most stars on GitHub. For us a Angular repository is Angular tagged and uses angular-core. At the end you find a [list of all repositories](#list-of-all-repositories) which were evaluated in this study. 
