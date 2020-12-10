@@ -67,7 +67,7 @@ function makeChart(data) {
     }});
 };
 </script>
-Surprisingly only half of the repositories are on major version 11 or 10. We had suspected a much higher percentage. What was shocking to us was that 11% are still on Version 6 or lower. Version 6 was released in May 2018.
+Surprisingly only half of the repositories are on major version 11 or 10. We had suspected a much higher percentage. Around 11% are still on Version 6 or lower.
 
 ## Dec/2020: Migration to ESLint
 TSLint is deprecated since 2019. It is highly recommended to migrate to ESLint as soon as possible. We asked ourselves, how many projects already moved to ESLint and how many still stick with TSLint.
@@ -115,7 +115,7 @@ function makeChart(data) {
     }});
 };
 </script>
-Only a few percent of the projects already migrated to ESLint. It will be interesting to see how this number increase with time.
+Only a few percent of the projects already migrated to ESLint. It will be interesting to see how this number increases with time.
 ## What is coming next?
 We have some questions in our backlog. Coming soon.
 
