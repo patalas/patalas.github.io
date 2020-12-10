@@ -71,7 +71,7 @@ Surprisingly only half of the repositories are on major version 11 or 10. We had
 
 ## Dec/2020: Migration to ESLint
 TSLint is deprecated since 2019. It is highly recommended to migrate to ESLint as soon as possible. We asked ourselves, how many projects already moved to ESLint and how many still stick with TSLint.
-<div style="padding: 0 5rem"><canvas id="linter"></canvas></div>
+<div style="padding: 0 10rem"><canvas id="linter"></canvas></div>
 <script>
 d3.csv('/assets/stats/linter.csv')
   .then(makeChart);
@@ -94,12 +94,13 @@ function makeChart(data) {
              rotation: 1 * Math.PI,/** This is where you need to work out where 89% is */
             circumference: 1 * Math.PI,/** put in a much smaller amount  so it does not take up an entire semi circle */
 
-            cutoutPercentage: 70,
+            cutoutPercentage: 60,
     plugins: {
       labels: [
             {textMargin: 9,
+        fontSize: 14,
               render: function (args) {
-                return args.label == "none/others" ? '' : args.value + '%    ';
+                return args.label == "others" ? '' : args.value + '%';
               },
               position: 'outside'
             }, 
@@ -107,7 +108,7 @@ function makeChart(data) {
               fontSize: 13,
               fontStyle: 'bold',
             render: function (args) {
-                return args.label == "none/others" ? '' : (args.label == "TSLint" ? "TSLint (deprecated)" : args.label);
+                return args.label == "others" ? '' : (args.label == "TSLint" ? "TSLint (deprecated)" : args.label);
               }
             }
       ]              
