@@ -12,7 +12,7 @@ While Angular is one of the most well-known frontend frameworks, there is very l
 The statistics are based on one hundred Angular repositories with the most stars on GitHub. For us, an Angular repository is Angular tagged and uses angular-core. Here you find a [list of all repositories](#list-of-all-repositories) which were evaluated in this study. 
 
 ## Dec/2020: Which Angular Core Version is used?
-Major version of @angular/core based on the dependency in the package.json (latest master branch).
+Major version of @angular/core based on the dependency in the package.json. 
 <canvas id="core"></canvas>
 <script>
 d3.csv('/assets/stats/versions.csv')
@@ -120,7 +120,7 @@ Only a few percent of the projects already migrated to ESLint. It will be intere
 We have some questions in our backlog. Coming soon.
 
 ## List of all repositories
-This is the list of all one hundred evaluated repositories for this study. To get this list, we get a list of over 200 Angular tagged repositories with the most stars given in GitHub. After that, we removed all repositories, which do not use the @angular-core dependency. These are most likely repositories, which are related to Angular, like for example the Angular project itself, but they do not use Angular. For the remaining, we took the first one hundred with the most stars, which are listed below.
+This is the list of all one hundred evaluated repositories for this study. To get this list, we get a list of over 200 Angular tagged repositories with the most stars given in GitHub. After that, we removed all repositories, which do not use the @angular-core dependency. These are most likely repositories, which are related to Angular, like for example the Angular project itself, but they do not use Angular. For the remaining, we took the first one hundred with the most stars (head master/default branch).
 - SortableJS/ngx-sortablejs <https://github.com/SortableJS/ngx-sortablejs>
 - ngrx/example-app <https://github.com/ngrx/example-app>
 - sweetalert2/ngx-sweetalert2 <https://github.com/sweetalert2/ngx-sweetalert2>
