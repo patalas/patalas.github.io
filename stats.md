@@ -3,7 +3,7 @@ layout: default
 title: Angular Stats
 filename: stats.md
 ---
-## Stats of 100 Angular repositories with the most stars on GitHub
+## Stats of the 100 most starred Angular repositories on GitHub
 
 ## Motivation
 While Angular is one of the most well-known frontend frameworks, there is very little information about the projects using it. This page tries to answer interesting questions about the usage of Angular. If you have any further questions, please [contact me](https://patalas.github.io).
@@ -34,7 +34,6 @@ var greenToRedColors = [
 function makeChart(data) {
     var dataLabels = data.map(function(d) {return d.Version});
     var dataValues = data.map(function(d) {return d.Number});
-    var colors = data.map(function(d) { return greenToRedColors[d.Version - 3]});
     var chart = new Chart('core', {
         type: 'doughnut',
         data: {
@@ -42,7 +41,10 @@ function makeChart(data) {
             datasets: [
             {
                 data: dataValues,
-                backgroundColor: colors
+                backgroundColor: ["#6633FF","#3366FF","#ff9988", 
+"#ff5588", "#ff1144", "#ff1144",
+"#ff3366",
+"#ff6666"]
             }
             ]
         },
@@ -51,16 +53,20 @@ function makeChart(data) {
       labels: [
             {
               textMargin: 8,
+              fontSize: 14,
               render: function (args) {
                 return args.value + '%';
               },
-              position: 'outside'
+              position: 'outside',
+              fontColor: ['white', 'white', 'white', 'white', 'white']
             }, 
             {
+        fontSize: 18,
+
             render: function (args) {
                 return args.label == 5 ? '' : args.label;
               },
-            fontColor: ['white', 'white']
+            fontColor: ['white', 'white', 'white', 'white', 'white']
             }
       ]              
     }
