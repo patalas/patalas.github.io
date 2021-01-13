@@ -9,12 +9,12 @@ Many long and short term contracts testify my expert knowledge and my contributi
 
 # Get a feeling for my coding style
 
-Check out my Angular showcase: [https://angular-showcase-mpa.web.app](https://angular-showcase-mpa.web.app/) (hosted by Firebase)
+Check out my Angular showcase: [https://angular-showcase-mpa.web.app](https://angular-showcase-mpa.web.app/) (hosted by Firebase).
 
-All source code is public: [https://github.com/patalas/showcase](https://github.com/patalas/showcase)
+All source code is public: [https://github.com/patalas/showcase](https://github.com/patalas/showcase).
 
 ## Angular Stats
-Take a look at my statistics of the hundred most star rated Angular projects on GitHub: [link](/stats.html)
+Take a look at my statistics of the hundred most star rated Angular projects on GitHub: [stats.html](/stats.html)
 
 ## Progressive Web App (PWA)
 
