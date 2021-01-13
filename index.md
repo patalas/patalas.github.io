@@ -10,6 +10,7 @@ Many long and short term contracts testify my expert knowledge and my contributi
 # Get a feeling for my coding style
 
 Check out my Angular showcase: [https://angular-showcase-mpa.web.app](https://angular-showcase-mpa.web.app/) (hosted by Firebase)
+
 All source code is public: [https://github.com/patalas/showcase](https://github.com/patalas/showcase)
 
 ## Angular Stats
