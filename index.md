@@ -119,10 +119,10 @@ Use my knowledge of over 10 years of work as a developer in projects with differ
 </div>
 <script>
     new Timesheet('timesheet', 2013, 2020, [
+    ['2021', '2021', 'Raiffeisen Software', 'dolor', ['Angular', 'Java EE']],
     ['2018', '2020', 'BAT Raiffeisen', 'ipsum', ['Angular', 'SAP JCO', 'Spring']],
     ['2016', '2018', 'Austrian National Library', 'dolor', ['Angular', 'JAVA EE', 'NoSQL',]],
     ['2014', '2016', 'The Ruhr Institute for Software Technology', 'default',['Spring', 'Ontologies']],
-    ['2010', '2014', 'Soptim AG', 'ipsum',['JAVA EE', 'Oracle', 'UI-Design']]
     ]);
 </script>
 
