@@ -48,7 +48,7 @@ Also take a look on my PWA on Desktop or Mobile: [https://filterx3.web.app](http
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="28eafb2b-6020-4c96-980a-e9fe14722872" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eb17eac7-ab4f-499d-9973-8b8fadfe748f" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
-## Call or Write to me for Projects in Europe
+## For Projects in Europe
 <div class="box-container">
     <div class="box blurred-bg with-flex " draggable="true">
     <div style="flex: 0 200px">
