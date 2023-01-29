@@ -1,0 +1,19 @@
+{
+    "title-area": {
+        "title": "Software Development Zusammen",
+        "sub1": "Freelancer seit 2018",
+        "sub3": "Deutsch, Englisch, Polnisch",
+        "sub4": "M.Sc. Ing. Angewandte Informatik"
+    },
+    "experience": {
+        "title": "Perfect Mix of Experience and Expertise",
+        "description": "Over 10 years of experience in Agile Software Development",
+        "angular-experience": "Starting with Angular 2, I worked the last 6 years in 4 major projects with Angular, creating successful single-page application.",
+        "typescript-experience": "In 2016 I switched from JavaScript to Typescript and experienced the benefits of type safety in many projects.",
+        "java-experience": "With 10 years of experience in Java and several years with frameworks like EE and Spring I love to solve complex backend challenges and still learn new things."
+    },
+    "clients": {
+        "client1": "",
+        "client2": ""
+    }
+}

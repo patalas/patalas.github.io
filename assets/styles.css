@@ -1,0 +1,246 @@
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 300;
+    font-family: "Roboto Slab", "Times New Roman", serif;
+}
+
+
+.navbar {
+    padding: 10px 15px;
+    position: fixed !important;
+    top: 0;
+    background-color: white;
+    z-index: 999;
+}
+
+.navbar.scrolled {
+    box-shadow: 0 1px 10px -6px rgb(0 0 0 / 42%), 0 1px 10px 0 rgb(0 0 0 / 12%), 0 4px 5px -2px rgb(0 0 0 / 10%);
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+}
+
+.page-header {
+    min-height: 840px;
+}
+
+.page-header .container {
+    padding-top: 135px;
+}
+
+.title-area .title {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.3;
+    margin: 0 0 20px;
+    font-size: 67px;
+    font-weight: 700;
+}
+
+.title-area .sub-title {
+    font-weight: 500;
+    -webkit-font-smoothing: antialiased;
+
+    line-height: 30pt;
+    font-size: 22px !important;
+}
+
+.header-image {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+
+.main {
+    position: relative;
+    background: #fff;
+    margin: -110px 30px 0;
+    border-radius: 10px 10px 0 0;
+    -webkit-box-shadow: 0 16px 24px 2px rgb(0 0 0 / 15%), 0 6px 30px 5px rgb(0 0 0 / 16%), 0 8px 10px -5px rgb(0 0 0 / 22%);
+    box-shadow: 0 16px 24px 2px rgb(0 0 0 / 15%), 0 6px 30px 5px rgb(0 0 0 / 16%), 0 8px 10px -5px rgb(0 0 0 / 22%);
+}
+
+.experience {
+    padding: 75px 0 55px;
+    text-align: center;
+}
+
+.main .title {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 37px;
+    color: #3c4858;
+    word-wrap: break-word;
+    font-weight: 700;
+}
+
+.description {
+    line-height: 1.5;
+    font-weight: 300;
+    font-size: 18px;
+    color: #999;
+    margin-bottom: 15px;
+}
+
+.experience-box {
+    margin-right: -4px;
+    margin-left: -4px;
+    vertical-align: top;
+}
+
+.box {
+    padding: 50px 0 30px;
+    margin: 0 auto;
+}
+
+.experience-description {
+    text-align: left;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+.about {
+    background: #232323 !important;
+    background: -webkit-gradient(radial,center center,0,center center,100%,color-stop(0,#585858),color-stop(100%,#232323));
+    background: -webkit-radial-gradient(center,ellipse cover,#585858 0,#232323 100%);
+    background: -webkit-radial-gradient(center ellipse,#585858 0,#232323 100%);
+    background: radial-gradient(ellipse at center,#585858 0,#232323 100%);
+    background-color: #343434;
+    background-size: 200% 240%;
+    background-size: 550% 450%;
+    color: white;
+}
+
+.section-image .container {
+    position: relative;
+    z-index: 2;
+}
+
+.about {
+    padding: 65px 0 30px;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    border-left: 5px solid #eee;
+    box-sizing: border-box;
+    overflow-wrap: break-word;
+}
+
+.block-image {
+    margin: 0 0 1em;
+    display: block;
+}
+
+.clients {
+    position: relative;
+    background-position: top center;
+    background-size: cover;
+    padding: 65px 0;
+    background-color: rgba(0,0,0,.66);
+    color: white;
+}
+
+.clients .container {
+    position: relative;
+    z-index: 2;
+}
+
+.clients .title {
+    color: white;
+}
+
+.client {
+    margin: 20px;
+    font-size: 24px;
+}
+
+.contact {
+    background: radial-gradient(ellipse at center,#585858 0,#232323 100%);
+    background-color: #343434;
+    color: white;
+    padding: 90px 0 70px
+}
+
+.contact .title {
+    margin-bottom: 30px;
+    font-size: 37px;
+    color: #eaeaea;
+}
+
+.contact .description {
+    color: white;
+}
+
+.info-horizontal .icon {
+    float: left;
+    margin-top: 20px !important;
+    margin-right: 10px;
+}
+
+.info-horizontal .description {
+    overflow: hidden;
+}
+
+.info-title {
+    margin-top: 20px;
+    color: #fff;
+}
+
+footer.footer {
+    background: #323437;
+    color: #999;
+    padding: 10px 0 5px;
+    text-align: center;
+}
+
+footer.footer.footer-black a {
+    opacity: .86;
+    color: #fff;
+}
+
+.footer-menu {
+    margin-bottom: 0 !important;
+}
+
+.footer-big .footer-menu li a {
+    padding: 15px 15px 15px 0;
+   
+}
+
+.footer-big ul li a {
+    display: inline-block;
+    position: relative;
+    padding: 5px 0;
+    border-radius: 3px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+
+.footer-big .footer-menu li {
+    display: inline-block;
+}
+
+
+/* Terms */
+body.terms {
+    margin: 40px 40px;
+}
